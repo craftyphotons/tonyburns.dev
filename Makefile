@@ -9,7 +9,7 @@ preview:
 	$(HUGO_CMD)
 
 production:
-	$(HUGO_CMD) --minify
+	$(HUGO_CMD) --minify --ignoreVendor
 
 serve:
 	$(HUGO_CMD) serve --appendPort=false -b https://tonyburns.dev/ -D --liveReloadPort=443 --noHTTPCache
