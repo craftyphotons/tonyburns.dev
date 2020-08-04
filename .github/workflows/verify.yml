@@ -65,7 +65,7 @@ jobs:
 
       - name: Download Go modules
         run: |
-          hugo mod download
+          hugo mod get
 
       - name: Build site
         run: make
