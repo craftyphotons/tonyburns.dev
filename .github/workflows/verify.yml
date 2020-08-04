@@ -66,7 +66,7 @@ jobs:
 
       - name: Vendor Go modules
         run: |
-          go mod download -mod=readonly
+          hugo mod get -u
 
       - name: Build site
         run: make
