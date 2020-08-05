@@ -11,3 +11,16 @@ theme = "wilson"
   articles = "articles/:slug/"
   notes = "notes/:slug/"
   photos = "photos/:slug/"
+
+[params]
+  [[params.links]]
+    rel = "authorization_endpoint"
+    href = "https://hub.tonyburns.dev/indieauth/authorize"
+
+  [[params.links]]
+    rel = "token_endpoint"
+    href = "https://hub.tonyburns.dev/indieauth/token"
+
+  [[params.links]]
+    rel = "micropub"
+    href = "https://hub.tonyburns.dev/micropub"
