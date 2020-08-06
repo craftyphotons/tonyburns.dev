@@ -24,3 +24,7 @@ theme = "wilson"
   [[params.links]]
     rel = "micropub"
     href = "https://hub.tonyburns.dev/micropub"
+
+  [[params.links]]
+    rel = "webmention"
+    href = "https://hub.tonyburns.dev/webmentions"
