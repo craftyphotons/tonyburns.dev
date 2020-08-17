@@ -7,6 +7,8 @@ language = "en"
 title = "Tony Burns"
 theme = "wilson"
 
+disablePathToLower = true
+
 [permalinks]
   articles = "articles/:slug/"
   notes = "notes/:slug/"
