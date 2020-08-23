@@ -2,7 +2,6 @@
 id: 706f9ebe-78fa-43dc-8e5f-c7a7bbacd4f4
 slug: et-nihil-repellendus-quidem
 date: '2020-08-23T17:01:07Z'
-type: article
 draft: false
 name: Et nihil repellendus quidem.
 summary: Aut architecto consectetur. Quaerat iusto aspernatur. Repudiandae autem aut.
