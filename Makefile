@@ -12,6 +12,6 @@ production:
 	$(HUGO_CMD) --minify --ignoreVendor
 
 serve:
-	$(HUGO_CMD) serve --appendPort=false -b https://tonyburns.dev/ -D --liveReloadPort=443 --noHTTPCache
+	$(HUGO_CMD) serve --appendPort=false -b https://tonyburns.dev/ -D --liveReloadPort=443 --noHTTPCache --buildDrafts
 
 .PHONY: all preview production
