@@ -11,12 +11,15 @@ disablePathToLower = true
 
 [permalinks]
   articles = "articles/:slug/"
+  bookmarks = "bookmarks/:slug/"
   notes = "notes/:slug/"
   photos = "photos/:slug/"
+  replies = "replies/:slug/"
 
 [params]
   mainSections = ["articles", "notes", "photos"]
-  
+  citationTypes = ["bookmarks", "likes", "replies", "reposts"]
+
   [[params.links]]
     rel = "authorization_endpoint"
     href = "https://singulus.dev/indieauth/authorize"
