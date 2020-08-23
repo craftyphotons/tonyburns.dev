@@ -5,11 +5,11 @@ date: '2020-08-23T16:47:56Z'
 type: article
 draft: true
 name: The Constitution Of The United States Of America
-summary: "**We the People** of the United States, in Order to form a more perfect
-  Union,\r\nestablish Justice, insure domestic Tranquility, provide for the common
-  defence,\r\npromote the general Welfare, and secure the Blessings of Liberty to
-  ourselves\r\nand our Posterity, do ordain and establish this Constitution for the
-  United\r\nStates of America."
+summary: "We the People of the United States, in Order to form a more perfect Union,\r\nestablish
+  Justice, insure domestic Tranquility, provide for the common defence,\r\npromote
+  the general Welfare, and secure the Blessings of Liberty to ourselves\r\nand our
+  Posterity, do ordain and establish this Constitution for the United\r\nStates of
+  America."
 categories:
 - one
 - two
