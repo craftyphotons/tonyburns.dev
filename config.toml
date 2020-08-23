@@ -15,6 +15,8 @@ disablePathToLower = true
   photos = "photos/:slug/"
 
 [params]
+  mainSections = ["articles", "notes", "photos"]
+  
   [[params.links]]
     rel = "authorization_endpoint"
     href = "https://singulus.dev/indieauth/authorize"
