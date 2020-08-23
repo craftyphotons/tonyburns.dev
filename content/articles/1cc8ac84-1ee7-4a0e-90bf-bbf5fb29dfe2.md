@@ -2,7 +2,6 @@
 id: 1cc8ac84-1ee7-4a0e-90bf-bbf5fb29dfe2
 slug: the-constitution-of-the-united-states-of-america
 date: '2020-08-23T16:47:56Z'
-type: article
 draft: true
 name: The Constitution Of The United States Of America
 summary: "We the People of the United States, in Order to form a more perfect Union,\r\nestablish
