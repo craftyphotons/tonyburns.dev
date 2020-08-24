@@ -17,7 +17,7 @@ disablePathToLower = true
   replies = "replies/:slug/"
 
 [params]
-  mainSections = ["articles", "notes", "photos"]
+  mainSections = ["articles", "notes", "photos", "videos", "audio", "bookmarks", "likes", "replies", "reposts"]
   citationTypes = ["bookmarks", "likes", "replies", "reposts"]
 
   [[params.links]]
