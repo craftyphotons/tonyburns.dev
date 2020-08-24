@@ -18,7 +18,7 @@ disablePathToLower = true
 
 [params]
   mainSections = ["articles", "notes", "photos", "videos", "audio", "bookmarks", "likes", "replies", "reposts"]
-  citationTypes = ["bookmarks", "likes", "replies", "reposts"]
+  citationTypes = ["bookmarks", "likes", "replies", "reposts", "rsvps"]
 
   [[params.links]]
     rel = "authorization_endpoint"
