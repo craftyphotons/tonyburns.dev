@@ -4,15 +4,18 @@ slug: the-constitution-of-the-united-states-of-america
 date: '2020-08-23T16:47:56Z'
 draft: false
 metadata:
+  description: We the People of the United States, in Order to form a more perfect
+    Union, establish Justice, insure domestic Tranquility, provide for the common
+    defence, pr...
   og_title: The Constitution Of The United States Of America
   og_url: https://tonyburns.dev/articles/the-constitution-of-the-united-states-of-america
-  og_image: http://localhost:9000/singulus-development/photo/58f380414bbd67653d0fe2bf14b4ece0.jpeg
+  og_image: http://localhost:9000/singulus-development/photo/a7aaf33dbd0b584a47dea1fc1b3a9bbf.jpeg
+  og_image_height: 630
+  og_image_width: 504
   og_type: article
-  og_description: "We the People of the United States, in Order to form a more perfect
-    Union,\r\nestablish Justice, insure domestic Tranquility, provide for the common
-    defence,\r\npromote the general Welfare, and secure the Blessings of Liberty to
-    ourselves\r\nand our Posterity, do ordain and establish this Constitution for
-    the United\r\nStates of America."
+  og_description: We the People of the United States, in Order to form a more perfect
+    Union, establish Justice, insure domestic Tranquility, provide for the common
+    defence, pr...
   og_locale: en_US
   twitter_card: summary
   twitter_site: "@craftyphotons"
@@ -20,13 +23,13 @@ metadata:
   twitter_creator: "@craftyphotons"
   twitter_creator_id: '710598354917580800'
   twitter_title: The Constitution Of The United States Of America
-  twitter_description: "We the People of the United States, in Order to form a more
-    perfect Union,\r\nestablish Justice, insure domestic Tranquility, provide for
-    the common defence,\r\npromote the general Welfare, and secure the Blessings of
-    Liberty to ourselves\r\nand our Posterity, do ordain and establish this Constitution
-    for the United\r\nStates of America."
-  twitter_image: http://localhost:9000/singulus-development/photo/d4d90e1ca63a3a7341caeb48014d2739.jpeg
+  twitter_description: We the People of the United States, in Order to form a more
+    perfect Union, establish Justice, insure domestic Tranquility, provide for the
+    common defence, pr...
+  twitter_image: http://localhost:9000/singulus-development/photo/7502d1526646abf03deb056888635686.jpeg
   twitter_image_alt: Tony Burns
+  twitter_image_height: 500
+  twitter_image_width: 400
 categories:
 - one
 - two
