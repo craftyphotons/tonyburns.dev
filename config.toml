@@ -24,6 +24,11 @@ disablePathToLower = true
   mainSections = ["articles", "notes", "photos", "videos", "audio", "bookmarks", "likes", "replies", "reposts"]
   citationTypes = ["bookmarks", "likes", "replies", "reposts", "rsvps"]
 
+  metaDescription = "Tony Burns is an American software engineer, author, and photographer."
+
+  twitterUsername = "@craftyphotons"
+  twitterUserID = "710598354917580800"
+
   [[params.links]]
     rel = "authorization_endpoint"
     href = "https://singulus.dev/indieauth/authorize"
