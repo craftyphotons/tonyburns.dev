@@ -8,7 +8,7 @@ metadata:
     aut.
   og_title: Et nihil repellendus quidem.
   og_url: https://tonyburns.dev/articles/et-nihil-repellendus-quidem
-  og_image: http://localhost:9000/singulus-development/photo/48bc6fdd7eb84f1160027179eba6aff0.jpeg
+  og_image: https://assets.tonyburns.dev/singulus-development/photo/48bc6fdd7eb84f1160027179eba6aff0.jpeg
   og_image_height: 630
   og_image_width: 840
   og_type: article
@@ -23,16 +23,16 @@ metadata:
   twitter_title: Et nihil repellendus quidem.
   twitter_description: Aut architecto consectetur. Quaerat iusto aspernatur. Repudiandae
     autem aut.
-  twitter_image: http://localhost:9000/singulus-development/photo/961368ae7fb61d6e363090ed14ab14b4.jpeg
+  twitter_image: https://assets.tonyburns.dev/singulus-development/photo/961368ae7fb61d6e363090ed14ab14b4.jpeg
   twitter_image_alt: Doloremque quo eum est.
   twitter_image_height: 300
   twitter_image_width: 400
 featured:
-  url: http://localhost:9000/singulus-development/photo/e4127ba50f89c9300a2933ed1337758d.jpg
-  opengraph_url: http://localhost:9000/singulus-development/photo/48bc6fdd7eb84f1160027179eba6aff0.jpeg
-  twitter_card_url: http://localhost:9000/singulus-development/photo/961368ae7fb61d6e363090ed14ab14b4.jpeg
-  wilson_list_url: http://localhost:9000/singulus-development/photo/ddf3836e21f04ec1d3628002b69e8639.jpeg
-  wilson_post_url: http://localhost:9000/singulus-development/photo/c8bd94fe1eed24045a0928e9c5ed368d.jpeg
+  url: https://assets.tonyburns.dev/singulus-development/photo/e4127ba50f89c9300a2933ed1337758d.jpg
+  opengraph_url: https://assets.tonyburns.dev/singulus-development/photo/48bc6fdd7eb84f1160027179eba6aff0.jpeg
+  twitter_card_url: https://assets.tonyburns.dev/singulus-development/photo/961368ae7fb61d6e363090ed14ab14b4.jpeg
+  wilson_list_url: https://assets.tonyburns.dev/singulus-development/photo/ddf3836e21f04ec1d3628002b69e8639.jpeg
+  wilson_post_url: https://assets.tonyburns.dev/singulus-development/photo/c8bd94fe1eed24045a0928e9c5ed368d.jpeg
   alt: Doloremque quo eum est.
 name: Et nihil repellendus quidem.
 summary: Aut architecto consectetur. Quaerat iusto aspernatur. Repudiandae autem aut.
