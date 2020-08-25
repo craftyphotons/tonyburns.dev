@@ -35,6 +35,7 @@ featured:
   wilson_post_url: https://assets.tonyburns.dev/singulus-development/photo/c8bd94fe1eed24045a0928e9c5ed368d.jpeg
   alt: Doloremque quo eum est.
 name: Et nihil repellendus quidem.
+title: Et nihil repellendus quidem.
 summary: Aut architecto consectetur. Quaerat iusto aspernatur. Repudiandae autem aut.
 
 ---
