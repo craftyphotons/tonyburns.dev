@@ -6,7 +6,7 @@ draft: false
 metadata:
   og_title: tonyburns.dev
   og_url: https://tonyburns.dev/notes/y7PbB6
-  og_image: http://localhost:9000/singulus-development/photo/a98cd492ab15830e58c1bb750cdb852f.jpeg
+  og_image: http://localhost:9000/singulus-development/photo/58f380414bbd67653d0fe2bf14b4ece0.jpeg
   og_type: article
   og_description: Vero sunt provident. Perspiciatis id minus. Esse odio iure. Consequatur
     incidunt ipsa. Dolores tempore est. Ipsa quia id. Molestiae error saepe. Ab ipsum
@@ -23,8 +23,8 @@ metadata:
     Consequatur incidunt ipsa. Dolores tempore est. Ipsa quia id. Molestiae error
     saepe. Ab ipsum tempora. Perspiciatis nisi laboriosam. Eaque et ab. Omnis vero
     doloribus. Similique voluptatem .
-  twitter_image: http://localhost:9000/singulus-development/photo/9405525f92f5b393ab07f49c89bff587.jpeg
-  twitter_image_alt: Young Zulauf
+  twitter_image: http://localhost:9000/singulus-development/photo/d4d90e1ca63a3a7341caeb48014d2739.jpeg
+  twitter_image_alt: Tony Burns
 
 ---
 
