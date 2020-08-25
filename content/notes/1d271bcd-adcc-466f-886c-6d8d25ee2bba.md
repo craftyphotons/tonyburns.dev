@@ -6,7 +6,7 @@ draft: false
 metadata:
   og_title: tonyburns.dev
   og_url: https://tonyburns.dev/notes/B11kog
-  og_image: http://localhost:9000/singulus-development/photo/a98cd492ab15830e58c1bb750cdb852f.jpeg
+  og_image: http://localhost:9000/singulus-development/photo/58f380414bbd67653d0fe2bf14b4ece0.jpeg
   og_type: article
   og_description: Molestiae accusantium rerum. Sint amet velit. In esse sint. Eaque
     iure debitis. Voluptatibus omnis ut. Incidunt aut impedit. Iure harum accusamus.
@@ -23,8 +23,8 @@ metadata:
     Eaque iure debitis. Voluptatibus omnis ut. Incidunt aut impedit. Iure harum accusamus.
     Ea ut officia. Cum fugiat nam. Voluptatum provident earum. Minus et laudantium.
     Reiciendis eum delenit.
-  twitter_image: http://localhost:9000/singulus-development/photo/9405525f92f5b393ab07f49c89bff587.jpeg
-  twitter_image_alt: Young Zulauf
+  twitter_image: http://localhost:9000/singulus-development/photo/d4d90e1ca63a3a7341caeb48014d2739.jpeg
+  twitter_image_alt: Tony Burns
 
 ---
 
