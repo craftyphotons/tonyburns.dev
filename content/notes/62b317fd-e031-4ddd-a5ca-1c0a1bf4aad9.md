@@ -9,7 +9,7 @@ metadata:
     Repe...
   og_title: tonyburns.dev
   og_url: https://tonyburns.dev/notes/V6qZJ2
-  og_image: http://localhost:9000/singulus-development/photo/a7aaf33dbd0b584a47dea1fc1b3a9bbf.jpeg
+  og_image: https://assets.tonyburns.dev/singulus-development/photo/a7aaf33dbd0b584a47dea1fc1b3a9bbf.jpeg
   og_image_height: 630
   og_image_width: 504
   og_type: article
@@ -26,7 +26,7 @@ metadata:
   twitter_description: Porro eum animi. Perferendis alias ut. Omnis temporibus blanditiis.
     Laboriosam nobis minima. Vel corporis et. Omnis velit molestiae. Error dolor cumque.
     Repe...
-  twitter_image: http://localhost:9000/singulus-development/photo/7502d1526646abf03deb056888635686.jpeg
+  twitter_image: https://assets.tonyburns.dev/singulus-development/photo/7502d1526646abf03deb056888635686.jpeg
   twitter_image_alt: Tony Burns
   twitter_image_height: 500
   twitter_image_width: 400
