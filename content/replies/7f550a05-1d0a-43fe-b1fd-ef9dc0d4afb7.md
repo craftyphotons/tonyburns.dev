@@ -24,20 +24,6 @@ metadata:
   twitter_image_alt: Tony Burns
   twitter_image_height: 
   twitter_image_width: 
-in_reply_to:
-- author:
-    url: http://thiel-carroll.io/elton
-    name: Idalia Johnson
-    email: dwayne@ebert.info
-    photo: https://api.adorable.io/avatars/64/dwayne@ebert.info.png
-  content: Dolores laudantium qui. Autem maxime dolorem. Est eos non.
-  name: Ex nesciunt voluptas alias.
-  publication: 
-  url:
-  - http://schowalter.io/christene.okon
-  uid: http://schowalter.io/christene.okon
-  accessed: '2020-08-28T04:02:04Z'
-  published: '2018-11-25T18:46:35Z'
 cite:
 - author:
     url: http://thiel-carroll.io/elton
