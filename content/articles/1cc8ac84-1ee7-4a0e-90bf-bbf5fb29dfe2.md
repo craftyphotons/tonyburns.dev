@@ -9,9 +9,9 @@ metadata:
     defence, pr...
   og_title: The Constitution Of The United States Of America
   og_url: https://tonyburns.dev/articles/the-constitution-of-the-united-states-of-america
-  og_image: https://assets.tonyburns.dev/singulus-development/photo/a7aaf33dbd0b584a47dea1fc1b3a9bbf.jpeg
-  og_image_height: 630
-  og_image_width: 504
+  og_image: 
+  og_image_height: 
+  og_image_width: 
   og_type: article
   og_description: We the People of the United States, in Order to form a more perfect
     Union, establish Justice, insure domestic Tranquility, provide for the common
@@ -26,10 +26,10 @@ metadata:
   twitter_description: We the People of the United States, in Order to form a more
     perfect Union, establish Justice, insure domestic Tranquility, provide for the
     common defence, pr...
-  twitter_image: https://assets.tonyburns.dev/singulus-development/photo/7502d1526646abf03deb056888635686.jpeg
+  twitter_image: 
   twitter_image_alt: Tony Burns
-  twitter_image_height: 500
-  twitter_image_width: 400
+  twitter_image_height: 
+  twitter_image_width: 
 categories:
 - one
 - two
