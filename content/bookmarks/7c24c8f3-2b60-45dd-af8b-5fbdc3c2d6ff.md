@@ -24,20 +24,6 @@ metadata:
   twitter_image_alt: Tony Burns
   twitter_image_height: 
   twitter_image_width: 
-bookmark_of:
-- author:
-    url: http://balistreri.io/albertha
-    name: Alessandra Gusikowski
-    email: elmer@wunsch-macgyver.org
-    photo: https://api.adorable.io/avatars/64/elmer@wunsch-macgyver.org.png
-  content: Esse omnis qui. Voluptatum ut odit. Dolores quo dolorem.
-  name: Modi eos eos aut.
-  publication: 
-  url:
-  - http://bayer.info/tamela_veum
-  uid: http://bayer.info/tamela_veum
-  accessed: '2020-08-28T04:02:10Z'
-  published: '2019-11-17T13:44:12Z'
 cite:
 - author:
     url: http://balistreri.io/albertha
