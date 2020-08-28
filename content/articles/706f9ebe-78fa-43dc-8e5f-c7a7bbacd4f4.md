@@ -4,16 +4,16 @@ slug: et-nihil-repellendus-quidem
 date: '2020-08-23T17:01:07Z'
 draft: true
 metadata:
-  description: Aut architecto consectetur. Quaerat iusto aspernatur. Repudiandae autem
-    aut.
+  description: 'Aut architecto consectetur. Quaerat iusto aspernatur. Repudiandae
+    autem aut. '
   og_title: Et nihil repellendus quidem.
   og_url: https://tonyburns.dev/articles/et-nihil-repellendus-quidem
   og_image: https://assets.tonyburns.dev/singulus-development/photo/48bc6fdd7eb84f1160027179eba6aff0.jpeg
   og_image_height: 630
   og_image_width: 840
   og_type: article
-  og_description: Aut architecto consectetur. Quaerat iusto aspernatur. Repudiandae
-    autem aut.
+  og_description: 'Aut architecto consectetur. Quaerat iusto aspernatur. Repudiandae
+    autem aut. '
   og_locale: en_US
   twitter_card: summary_large_image
   twitter_site: "@craftyphotons"
@@ -21,8 +21,8 @@ metadata:
   twitter_creator: "@craftyphotons"
   twitter_creator_id: '710598354917580800'
   twitter_title: Et nihil repellendus quidem.
-  twitter_description: Aut architecto consectetur. Quaerat iusto aspernatur. Repudiandae
-    autem aut.
+  twitter_description: 'Aut architecto consectetur. Quaerat iusto aspernatur. Repudiandae
+    autem aut. '
   twitter_image: https://assets.tonyburns.dev/singulus-development/photo/961368ae7fb61d6e363090ed14ab14b4.jpeg
   twitter_image_alt: Doloremque quo eum est.
   twitter_image_height: 300
