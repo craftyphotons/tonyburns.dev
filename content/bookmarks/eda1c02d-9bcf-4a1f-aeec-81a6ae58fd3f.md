@@ -24,20 +24,6 @@ metadata:
   twitter_image_alt: Tony Burns
   twitter_image_height: 
   twitter_image_width: 
-bookmark_of:
-- author:
-    url: http://kilback-bartell.com/ricky_kovacek
-    name: Lu Luettgen
-    email: lolita.cummerata@homenick.net
-    photo: https://api.adorable.io/avatars/64/lolita.cummerata@homenick.net.png
-  content: Beatae deleniti qui. Et iure voluptatem. Consectetur ea dolor.
-  name: Odio ipsum voluptatem error.
-  publication: 
-  url:
-  - http://bauch.name/dominique
-  uid: http://bauch.name/dominique
-  accessed: '2020-08-28T04:02:10Z'
-  published: '2018-09-20T10:29:03Z'
 cite:
 - author:
     url: http://kilback-bartell.com/ricky_kovacek
